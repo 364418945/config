@@ -15,4 +15,4 @@ PRODUCT:
   ribbon:
     NFLoadBalancerRuluClassName: com.netflix.loadbalancer.RandomRule
 
-daf: 1
+daf: 12

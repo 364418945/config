@@ -7,7 +7,7 @@ spring:
   jpa:
     show-sql: true
 
-PRODUCT:
+ORDER:
   ribbon:
     NFLoadBalancerRuluClassName: com.netflix.loadbalancer.RandomRule
 
